@@ -1,4 +1,5 @@
 # MICROGRAD
 MICROGRAD IMPLEMENTATION USING DEEP LEARNING
 <br> 
-fuck you
+
+fuck you not 
